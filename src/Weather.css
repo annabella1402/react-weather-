@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap");
+
+.weather-app-wrapper {
+  max-width: 600px;
+  margin: 30px auto;
+  background: transparent;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(20px);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  color: #fff;
+  border-radius: 10px;
+}
+
+body {
+  justify-content: center;
+  align-items: center;
+  background: url("https://img.freepik.com/free-vector/gradient-glassmorphism-horizontal-banner_23-2149440108.jpg?w=740&t=st=1693420423~exp=1693421023~hmac=2db0c4aaf800b35162dcb97cca64c7f915e24458097935635801799ab8a21b9a")
+    no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.Weather {
+  color: gray;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.Weather h1 {
+  font-family: "Raleway", sans-serif;
+  font-size: 24px;
+  font-weight: 100;
+  margin: 20px 0 0 0;
+  line-height: 29px;
+  font-weight: bold;
+  color: lightskyblue;
+}
+
+.Weather ul {
+  margin: 0;
+  padding: 0;
+}
+
+.Weather li {
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 19px;
+  list-style: none;
+}
+
+.WeatherTemperature img {
+  margin-right: 10px;
+  height: 70px;
+  width: 70px;
+}
+
+.WeatherTemperature {
+  color: rgb(33, 33, 33);
+  font-size: 50px;
+  line-height: 64px;
+  margin-left: 5px;
+  font-weight: 400;
+  margin-left: 10px;
+}
+
+.Weather canvas {
+  margin: 10px auto;
+}
+
+.WeatherTemperature .unit {
+  color: rgb(33, 33, 33);
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  line-height: 1;
+  top: -24px;
+}
+
+.btn-primary {
+  font-family: "Wix Madefor Display", sans-serif;
+  color: white;
+  background-color: lightskyblue;
+  border-color: lightskyblue;
+  display: block;
+  text-align: center;
+  border-radius: 10px;
+  width: 110px;
+  height: 40px;
+}
+
+.btn-primary:hover {
+  cursor: pointer;
+  background-color: transparent;
+  color: white;
+  border-color: white;
+}
