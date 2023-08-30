@@ -34,7 +34,7 @@ body {
   margin: 20px 0 0 0;
   line-height: 29px;
   font-weight: bold;
-  color: lightskyblue;
+  color: rgb(33, 33, 33);
 }
 
 .Weather ul {
