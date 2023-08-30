@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project was coded by Annabella Rivero and is{" "}
           <a
-            href="https://github.com/annabella1402/React-Weather-App.git"
+            href="https://github.com/annabella1402/dazzling-goldwasser.git"
             target="_blank"
             rel="noopener noreferrer"
           >
