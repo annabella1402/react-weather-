@@ -5,5 +5,5 @@ This React weather app allows users to search for the weather in any location in
 * See the current weather conditions
 * See the forecast for the next few days
 
-https://boisterous-trifle-3cf749.netlify.app/
+
 
