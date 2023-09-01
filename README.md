@@ -1,5 +1,4 @@
-# react-weather-
-React Weather App
+# React Weather App
 This React weather app allows users to search for the weather in any location in the world. The app uses the OpenWeatherMap API to fetch weather data.
 ## Features
 * Search for the weather in any location in the world
